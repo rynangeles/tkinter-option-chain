@@ -1,0 +1,4 @@
+demjson==1.6
+pandas==0.13.1
+requests==2.2.1
+xlwt==0.7.5
